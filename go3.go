@@ -1,3 +1,7 @@
+package main
+
+import "math"
+
 func reverse(x int) int {
 	var result int
 	num := 0
